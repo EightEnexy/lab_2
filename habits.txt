@@ -2,3 +2,4 @@
 2. Celok je dolezitejsii ako nejaka drobnost.
 3. Nutnost balancovat code readability vs performance na ukor code readability.
 4. Minimalizovat distractions (Sluchadla s aktivnym potlacenim hluku, alokovat vacsinu pozornosti na goal).
+5. Stale sa vzdelavat.
