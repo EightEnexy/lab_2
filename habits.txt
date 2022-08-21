@@ -3,3 +3,4 @@
 3. Nutnost balancovat code readability vs performance na ukor code readability.
 4. Minimalizovat distractions (Sluchadla s aktivnym potlacenim hluku, alokovat vacsinu pozornosti na goal).
 5. Stale sa vzdelavat.
+6. Teamwork je dolezity (pytat sa, diskutovat, pomahat).
